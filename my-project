@@ -1,6 +1,0 @@
-my-project/               <-- Root folder of your project
-├── package.json          <-- Project dependencies and scripts
-├── pages/                <-- The "pages" folder must be at the root level
-│   └── api/              <-- API folder inside "pages"
-│       └── gen.ts        <-- Your API route file (gen.js for the /api/gen endpoint)
-└── next.config.js        <-- Optional (only if you have custom configuration for Next.js)
